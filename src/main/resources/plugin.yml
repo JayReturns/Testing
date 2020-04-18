@@ -1,0 +1,11 @@
+name: Testing
+version: 1.0
+author: JayReturns
+description: McUniverse Testing
+main: eu.mcuniverse.testing.main.Main
+loadbefore: [ProtocolLib]
+depend: [ProtocolLib]
+
+commands:
+  dimension:
+  nbt:
